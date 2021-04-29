@@ -2,6 +2,8 @@
 
 This is a simple SpringBoot application doing basic CRUD operations on sessions and speakers table while establishing  ManyToMany relationship among them. 
 
+Multiple REST points are there in the application.
+
 Speaker(Table) - 1. speaker_id LONG
                  2. first_name STRING
                  3. last_name STRING
